@@ -1,14 +1,1 @@
-import React from 'react';
-import './App.css';
-import Counter from './components/Counter';
-
-function App() {
-  return (
-    <div className="App">
-      <Counter />
-    </div>
-  );
-}
-
-export default App;
-import About from './About'; 
+console.log("Hello from feature branch!")  
